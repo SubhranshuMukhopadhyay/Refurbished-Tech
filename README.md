@@ -3,3 +3,4 @@ A replica website for selling refurbished desktops and refurbished laptops. This
 <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Refurbished%20Tech%20Description%20Image.jpg" alt="MLBC">
 ## Here is an explaination image about how the website works
 <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Refurbished%20Tech%20Expalination.jpg" alt="MLBC">
+### Hereby giving description of some features of the website
