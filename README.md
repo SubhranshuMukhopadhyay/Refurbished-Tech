@@ -17,3 +17,14 @@ A replica website for selling refurbished desktops and refurbished laptops. This
 | Create Account | On the press of 'Create Account Button' a container will open in where the user can put his details for account creation purpose. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Create%20Account%20Container%20Overview.jpg" alt="MLBC"> | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Create%20Account%20Button.jpg" alt="MLBC"> |
 | Forgot Password | By pressing 'Forgot Password Button' on the bottom container, the 'Forgot Password Container' will open. In here the user has access to reset his/her password. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Forgot%20Password%20Container%20Overview.jpg" alt="MLBC"> | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Forgot%20Password%20Button.jpg" alt="MLBC"> |
 | Log In | On the press of 'Log In' button, the 'Log In Container' will open. This is the section where the user have to put his/her Log In Id and Password and have to press the 'Log In Button' to enter into the 'Home Page'. Log In Id hasbeen fixed to 'RefurbishedTech' and there is no password. Logical details are in the file 'Log In.js'. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Log%20In%20Container%20Overview.jpg" alt="MLBC"> | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Log%20In%20Button.jpg" alt="MLBC"> |
+## Home Page :
+| Page Name | HTML File | CSS File | JavaScript File | 
+| - | - | - | - |
+| Home Page | Home.html | Home.css | Home.js |
+
+| Element Name | Page Description | Overview | Button |
+| - | - | - | - |
+| Home Page | After pressing the 'Log In Button' on 'Log In Page' the 'Home Page' loads up. This is the only main page in the full website where the main elements are available. There is no other page in the website. The other elements are available in this page in the form of buttons and containers. The full page hasbeen made based on HTML, CSS & JavaScript | <img src ="" alt="MLBC"> |  |
+| Header Section | The top portion of the Home Page with blue background is Header. There are four buttons are here. 1. Home Button (To reload the Home Page) 2. My Cart Button (Opens a container which is 'My Cart Container') 3. My Orders Contsiner (Opens a container which is 'My Orders Container') 4. Mode Changing Buttons (Changes mode between Light Mode and Dark Mode)
+5. Log Out Button (By pressing this button the user loggs out and gets directed to the 'Log In Page'). | <img src ="" alt="MLBC"> |  |
+| My Cart Button | The button is available on the header section.
