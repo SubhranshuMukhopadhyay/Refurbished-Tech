@@ -8,6 +8,7 @@ A replica website for selling refurbished desktops and refurbished laptops. This
 ## Hereby giving description of some features of the website
 | Log In Page |
 | - |
+
 | Page Name | Page Description | Overview |
 | - | - | - |
 | Log In Page | The first page of the website is 'Log In Page'. Page opens with a overview image of 'Home Page'. The page has three working sections. which are available in the bottom container. 1. Create Account 2. Log In Section 3. Forgot Password Section. The page has built by HTML & CSS and the logic part is based on JavaScript. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Log%20In%20Page%20Overview.jpg" alt="MLBC"> |
