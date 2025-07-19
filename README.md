@@ -9,7 +9,8 @@ A replica website for selling refurbished desktops and refurbished laptops. This
 | Log In Page |
 | - |
 
-| Page Name | Page Description | Overview | Button |
+| Element Name | Page Description | Overview | Button |
 | - | - | - | - |
 | Log In Page | The first page of the website is 'Log In Page'. Page opens with a overview image of 'Home Page'. The page has three working sections. which are available in the bottom container. 1. Create Account 2. Log In Section 3. Forgot Password Section. The page has built by HTML & CSS and the logic part is based on JavaScript. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Log%20In%20Page%20Overview.jpg" alt="MLBC"> |
-| Create Account | On the press of ''Create Account Button' a container will open in where the user can put his details for account creation purpose. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Create%20Account%20Container%20Overview.jpg" alt="MLBC"> | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Create%20Account%20Button.jpg" alt="MLBC"> |
+| Create Account | On the press of 'Create Account Button' a container will open in where the user can put his details for account creation purpose. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Create%20Account%20Container%20Overview.jpg" alt="MLBC"> | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Create%20Account%20Button.jpg" alt="MLBC"> |
+| Forgot Password | By pressing 'Forgot Password Button' on the bottom container, the 'Forgot Password Container' will open. In here the user has access to reset his/her password. | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Forgot%20Password%20Container%20Overview.jpg" alt="MLBC"> | <img src ="https://github.com/SubhranshuMukhopadhyay/Refurbished-Tech/blob/main/Resource%20Images/Forgot%20Password%20Button.jpg" alt="MLBC"> |
