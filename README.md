@@ -24,7 +24,11 @@ A replica website for selling refurbished desktops and refurbished laptops. This
 
 | Element Name | Page Description | Overview | Button |
 | - | - | - | - |
-| Home Page | After pressing the 'Log In Button' on 'Log In Page' the 'Home Page' loads up. This is the only main page in the full website where the main elements are available. There is no other page in the website. The other elements are available in this page in the form of buttons and containers. The full page hasbeen made based on HTML, CSS & JavaScript | <img src ="" alt="MLBC"> |  |
+| Home Page | After pressing the 'Log In' Button on 'Log In' Page the 'Home' Page loads up. This is the only main page in the full website where the main elements are available. There is no other page in the website. The other elements are available in this page in the form of buttons and containers. The full page hasbeen made based on HTML, CSS & JavaScript | <img src ="" alt="MLBC"> |  |
 | Header Section | The top portion of the Home Page with blue background is Header. There are four buttons are here. 1. Home Button (To reload the Home Page) 2. My Cart Button (Opens a container which is 'My Cart Container') 3. My Orders Contsiner (Opens a container which is 'My Orders Container') 4. Mode Changing Buttons (Changes mode between Light Mode and Dark Mode)
 5. Log Out Button (By pressing this button the user loggs out and gets directed to the 'Log In Page'). | <img src ="" alt="MLBC"> |  |
-| My Cart Button | The button is available on the header section.
+| My Cart Button | The button is available on the header section. By pressing the button 'My Cart' container will open. When the button 'Add to Cart' will be pressed the container from where the button got pressed will get show here. | <img src ="" alt="MLBC"> | <img src ="" alt="MLBC"> |
+| My Orders Button | The button is available on the header section. By pressing the button 'My Orders' container will open. When the button 'Order Now' will be pressed the container from where the button got pressed will get show here. | <img src ="" alt="MLBC"> | <img src ="" alt="MLBC"> |
+| Mode Button | When we are in the light mode by pressing the 'Mode' button on the header section we will enter into the dark mode. And when we are in the dark mode by pressing this button we will enter into the light mode. | <img src ="" alt="MLBC"> | <img src ="" alt="MLBC"> |
+| Log Out Button | From home page if we want to log out from our website we have to press this button available on  the right side of the header section. We will get directed to the 'Log In' page. |  | <img src ="" alt="MLBC"> |
+ 
